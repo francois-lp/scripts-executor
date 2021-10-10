@@ -10,9 +10,9 @@ __Requirements__
 
 __Project__
 ```
-	$ git clone https://github.com/francois-lp/scripts-executor
-	or
-	composer require francois-lp/scripts-executor
+    $ git clone https://github.com/francois-lp/scripts-executor
+    or
+    composer require francois-lp/scripts-executor
 ```
 
 ## Getting started
