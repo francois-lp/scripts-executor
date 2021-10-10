@@ -1,0 +1,14 @@
+{
+    "name": "francois/scripts-executor",
+    "authors": [
+        {
+            "name": "francois-lp",
+            "email": "francois@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Model\\": "model/"
+		}
+	}
+}
