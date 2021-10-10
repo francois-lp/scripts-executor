@@ -1,6 +1,6 @@
 ## Scripts executor
 *Module for executing scripts of different languages (java, python, php,...)*
-*POC using composer autoload and designs patterns (Singleton and Factory)*
+<br/>*POC using composer autoload and designs patterns (Singleton and Factory)*
 
 ## Installation
 
